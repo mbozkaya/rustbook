@@ -1,3 +1,2 @@
 # rustbook
-Rust Programlama Dili
-v1.0
+Rust Programlama Dili | v1.0
